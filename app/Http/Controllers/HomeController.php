@@ -10,4 +10,19 @@ class HomeController extends Controller
     {
         return view('index');
     }
+
+    public function products()
+    {
+        return view('products');
+    }
+
+    public function cart()
+    {
+        return view('cart');
+    }
+
+    public function checkout()
+    {
+        return view('checkout');
+    }
 }
