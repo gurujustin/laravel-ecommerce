@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row col-spacing-20">
                 <div class="col-6 col-sm-6 col-lg-3">
-                    <h3>Recomm</h3>
+                    <h3>Refurbstore</h3>
                 </div>
                 <div class="col-6 col-sm-6 col-lg-3">
                     <h6 class="font-small font-weight-normal uppercase">Useful Links</h6>

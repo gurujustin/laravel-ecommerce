@@ -10,7 +10,7 @@
                 <div class="row">
                     <div class="col-12 col-sm-10 col-md-8">
                         <div class="margin-top-50 margin-bottom-50">
-                            <h1 class="display-4 font-weight-bold text-white">Wireless Headphone</h1>
+                            <h1 class="display-4 font-weight-bold text-white">Mobile Phones</h1>
                             <ul class="list-inline-dash">
                                 <li class="text-white-09 font-weight-normal">Modern Design</li>
                                 <li class="text-white-09 font-weight-normal">5 Color Options</li>
