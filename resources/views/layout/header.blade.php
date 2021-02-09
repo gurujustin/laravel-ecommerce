@@ -13,48 +13,17 @@
         <div class="header-menu">
             <ul class="nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Link Only</a>
+                    <a class="nav-link" href="#">Products</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Dropdown</a>
-                    <ul class="nav-dropdown">
-                        <li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Dropdown Item</a></li>
-                        <li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Dropdown Item</a></li>
-                        <li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Dropdown Item</a></li>
-                        <li class="nav-dropdown-item"><a class="nav-dropdown-link" href="#">Dropdown Item</a></li>
-                    </ul>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Subdropdown</a>
-                    <ul class="nav-dropdown">
-                        <li class="nav-dropdown-item">
-                            <a class="nav-dropdown-link" href="#">Dropdown Item</a>
-                            <ul class="nav-subdropdown">
-                                <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-                                <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-                                <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-                                <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-dropdown-item">
-                            <a class="nav-dropdown-link" href="#">Dropdown Item</a>
-                            <ul class="nav-subdropdown">
-                                <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-                                <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-                                <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-                                <li class="nav-subdropdown-item"><a class="nav-subdropdown-link" href="#">Subdropdown Item</a></li>
-                            </ul>
-                        </li>
-                    </ul>
+                    <a class="nav-link" href="#">My Account</a>
                 </li>
             </ul>
         </div>
         <!-- Menu Extra -->
         <div class="header-menu-extra">
             <ul class="list-inline">
-                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                <li><a href="#"><i class="fab fa-shopping-cart"></i></a></li>
             </ul>
         </div>
         <!-- Menu Toggle -->
